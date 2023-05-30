@@ -192,6 +192,14 @@ img {
     padding-top: 9.5rem;
   }
 
+  .section-content {
+    grid-gap: 6rem;
+  }
+
+  .section-summary {
+    grid-gap: 3.2rem;
+  }
+
   .cards {
     grid-template-columns: repeat(3, 1fr);
   }
