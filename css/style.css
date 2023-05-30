@@ -183,6 +183,10 @@ img {
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+  .section {
+    padding-top: 10rem;
+  }
+
   .cards {
     grid-template-columns: repeat(3, 1fr);
   }
