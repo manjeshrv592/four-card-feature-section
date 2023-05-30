@@ -185,11 +185,11 @@ img {
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   .h1 {
-    grid-gap: 2.4rem;
+    grid-gap: 2.8rem;
   }
 
   .section {
-    padding-top: 9rem;
+    padding-top: 9.5rem;
   }
 
   .cards {
