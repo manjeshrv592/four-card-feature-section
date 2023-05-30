@@ -56,6 +56,7 @@ img {
 .h5,
 .h6 {
   font-weight: 600;
+  color: rgba(76, 78, 97, 1);
 }
 
 .h1 {
